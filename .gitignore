@@ -1,3 +1,4 @@
 ./weights/
 ./models/default.py
 ./cfg/
+./cfg/*
